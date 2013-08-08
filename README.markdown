@@ -13,5 +13,9 @@ Can't find the answer to your question in any of the [wiki](https://github.com/r
 <br/>
 <br/>
 Love the project? Wanna buy me a coffee? (or a beer :D) [![donation](https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CV6XGZTPQU9HY)
-
-
+<br/>
+(上面的donation是作者的, 不是我的)
+<br/>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br/>
+移除天朝用不到的FACEBOOK SDK
